@@ -1,0 +1,20 @@
+.exchange{
+  font-family:"Inter Tight", serif;
+  font-weight:200;
+  color:dodgerblue;
+}
+
+ summary{
+  width:27%;
+  height:auto;
+  border:1px solid lightgray;
+  padding:12px;
+  background-color:dodgerblue;
+  color:#fff;
+  border-radius:25px;
+  margin:0 auto;
+}
+
+details{
+ text-align:center;
+}
